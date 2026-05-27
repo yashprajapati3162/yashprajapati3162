@@ -3,7 +3,7 @@ Python · Scikit-learn · AWS · SQL · Time Series
 
 M.S. Data Science @ **DePaul University** (GPA: 3.84) — building ML pipelines, forecasting models, and segmentation systems on real-world datasets. Previously Data Science Intern @ **Oeson** and DBA Intern @ **Knovos**.
 
-📍 Chicago, IL &nbsp;|&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/yashprajapati3162) &nbsp;|&nbsp; 🐙 [GitHub](https://github.com/yashprajapati3162)
+📍 Chicago, IL &nbsp;|&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/yashprajapati3162)
 
 ---
 
